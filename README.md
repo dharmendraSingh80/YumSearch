@@ -1,4 +1,4 @@
-# Meal-APP
+# YumSearch
 
 This is the meal App built using javascript, HTML, CSS and Bootstrap.
 
