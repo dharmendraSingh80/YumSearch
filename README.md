@@ -10,7 +10,8 @@ This is the meal App built using javascript, HTML, CSS and Bootstrap.
 - Users can see the video of that meal in youtube just click on "watch video"
 
 ## Hosted Link
-https://dharmendrasingh80.github.io/meal-app/
+https://dharmendrasingh80.github.io/YumSearch/
+
 
 # Screenshots
 ## home page
